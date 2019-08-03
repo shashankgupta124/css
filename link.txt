@@ -4,4 +4,3 @@ https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.c
 
 
 
-https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
